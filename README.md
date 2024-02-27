@@ -1,7 +1,6 @@
-
 # Login Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/login-page/blob/main/Screenshot%202024-02-27%2021.46.15.png)
 
 The login page is created with simplicity and style for a digital learning platform.  create a modern login form using HTML and CSS.
 
